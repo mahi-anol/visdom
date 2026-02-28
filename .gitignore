@@ -26,3 +26,4 @@ data/
 checkpoints/
 profiler_logs/
 .vscode
+.pytest_cache
